@@ -59,11 +59,3 @@ Performs well on structured, scaled datasets.
 - Accuracy  
 
 ---
-
-## 🚀 How to Run This Project Locally
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
